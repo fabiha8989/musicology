@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: 0;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+nav{
+    background-color: #303030;
+}
+#search-btn{
+    background-color: #e8631c;
+    border: #000000;
+}
+.btn {
+    background-color: #e8631c;
+}
+.hero-part{
+    background: url(../image/hero-bg.png) no-repeat center;
+    background-size: cover;
+    color: white;
+    padding-top:250px ;
+padding-bottom: 50px;
+}
+#about{
+    background-color: #e8631c;
+  
+}
+.card{
+background-color: #303030;
+}
+#price{
+    background-color: #303030;
+}
+.price-box-part{
+    box-sizing: border-box;
+
+}
+
+
